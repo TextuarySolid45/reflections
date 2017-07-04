@@ -1,0 +1,7 @@
+1. What happens when you initialize a repository? Why do you need to do it?
+
+It does not save a commit. that has to be done manually. you have to use git status to check on what is going on in the repository
+
+2. How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+staging is what is beign tracked and the working directory is what is not. the staging area is one step from being a commit
